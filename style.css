@@ -3,9 +3,12 @@
 }
 
 html{
+  display: flex;
+  justify-content: center;
   font-size: 62.5%;
   background-color: #23252C;
   font-family: inter;
+  line-height: 1.15;;
 }
 /* CSS */
 .emailBtn{
